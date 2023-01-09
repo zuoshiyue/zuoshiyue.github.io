@@ -2,17 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 拾月</title>
-    <link>https://zuoshiyue.github.io/categories/</link>
+    <link>https://zuoshiyue.gitee.io/categories/</link>
     <description>Recent content in Categories on 拾月</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Jan 2023 14:56:51 +0800</lastBuildDate><atom:link href="https://zuoshiyue.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Jan 2023 20:15:26 +0800</lastBuildDate><atom:link href="https://zuoshiyue.gitee.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>nas</title>
+      <link>https://zuoshiyue.gitee.io/categories/nas/</link>
+      <pubDate>Thu, 05 Jan 2023 20:15:26 +0800</pubDate>
+      
+      <guid>https://zuoshiyue.gitee.io/categories/nas/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>hugo</title>
-      <link>https://zuoshiyue.github.io/categories/hugo/</link>
+      <link>https://zuoshiyue.gitee.io/categories/hugo/</link>
       <pubDate>Thu, 05 Jan 2023 14:56:51 +0800</pubDate>
       
-      <guid>https://zuoshiyue.github.io/categories/hugo/</guid>
+      <guid>https://zuoshiyue.gitee.io/categories/hugo/</guid>
       <description></description>
     </item>
     
