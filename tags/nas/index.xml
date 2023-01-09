@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>nas on 拾月</title>
-    <link>https://zuoshiyue.gitee.io/tags/nas/</link>
+    <link>http://zuoshiyue.github.io/tags/nas/</link>
     <description>Recent content in nas on 拾月</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Jan 2023 20:15:26 +0800</lastBuildDate><atom:link href="https://zuoshiyue.gitee.io/tags/nas/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Jan 2023 20:15:26 +0800</lastBuildDate><atom:link href="http://zuoshiyue.github.io/tags/nas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[转载] nas观影方案设计</title>
-      <link>https://zuoshiyue.gitee.io/2023/01/%E8%BD%AC%E8%BD%BD-nas%E8%A7%82%E5%BD%B1%E6%96%B9%E6%A1%88%E8%AE%BE%E8%AE%A1/</link>
+      <link>http://zuoshiyue.github.io/2023/01/%E8%BD%AC%E8%BD%BD-nas%E8%A7%82%E5%BD%B1%E6%96%B9%E6%A1%88%E8%AE%BE%E8%AE%A1/</link>
       <pubDate>Thu, 05 Jan 2023 20:15:26 +0800</pubDate>
       
-      <guid>https://zuoshiyue.gitee.io/2023/01/%E8%BD%AC%E8%BD%BD-nas%E8%A7%82%E5%BD%B1%E6%96%B9%E6%A1%88%E8%AE%BE%E8%AE%A1/</guid>
+      <guid>http://zuoshiyue.github.io/2023/01/%E8%BD%AC%E8%BD%BD-nas%E8%A7%82%E5%BD%B1%E6%96%B9%E6%A1%88%E8%AE%BE%E8%AE%A1/</guid>
       <description>&lt;h2 id=&#34;转载-利用nas实现全自动观影追剧方案实现&#34;&gt;[转载] 利用NAS实现全自动观影追剧方案实现&lt;/h2&gt;
 &lt;p&gt;想象一下打开一个网页，点开搜索框输入想看的电影或者电视剧，只需要点一个按钮，过几分钟对应的高清资源就已经呈现在你的影视库中，刮削完毕，字幕配好，你可以随时在家里的大屏幕或手机的小屏幕上欣赏。上周花了两天时间研究了下这套自动化流程，之前一直是手动去 PT 站下载资源然后用 TinyMediaManager 整理文件并刮削元数据，这显然不够优雅。&lt;/p&gt;</description>
     </item>
